@@ -132,8 +132,8 @@ Evaluated across **20 synthetic incident scenarios** and 100+ evidence documents
 ### 2. Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/monarch/monarch-investigator.git
-cd monarch-investigator
+git clone https://github.com/abhishekkamble12/Monarch_AI_Platform.git
+cd Monarch_AI_Platform
 
 # Create virtual environment
 python -m venv venv
